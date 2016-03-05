@@ -1,0 +1,25 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "Free Code Camp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphashuro/file-metadata.git"
+  },
+  "keywords": [],
+  "author": "Alpha Shuro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphashuro/file-metadata/issues"
+  },
+  "homepage": "https://github.com/alphashuro/file-metadata#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
